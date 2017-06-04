@@ -1,5 +1,7 @@
 
-Установить nodejs,npm, git, lastPass, Avocode.
+Установить nodejs,npm,git, lastPass, Avocode.
+устанавливаю gulp
+чтоб установить все модули в заготовке ставим: npm i
 
 PLUGINS
 
