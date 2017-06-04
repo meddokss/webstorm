@@ -1,5 +1,5 @@
 
-Установить nodejs, git, lastPass, Avocode.
+Установить nodejs,npm, git, lastPass, Avocode.
 
 PLUGINS
 
