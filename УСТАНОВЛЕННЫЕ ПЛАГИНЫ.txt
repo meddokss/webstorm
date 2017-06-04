@@ -1,0 +1,20 @@
+PLUGINS
+
+.ignore
+CodeGlance
+Get Gist
+Material Theme UI
+Angular2 typescript Live Tamplates
+bootstrap3
+bootstrap4 & fontawesome
+
+LIVE TAMPLATES
+Angular 2
+Angular2 typescript Live Tamplates
+
+bootstrap3
+
+bootstrap3Jade
+
+
+
