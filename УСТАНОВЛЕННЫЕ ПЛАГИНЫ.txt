@@ -1,7 +1,7 @@
 
-Установить nodejs,npm,git, lastPass, Avocode.
-устанавливаю gulp
+Установить nodejs, npm, git, lastPass, Avocode, gulp.
 чтоб установить все модули в заготовке ставим: npm i
+В настройках к проекту поставить глаку autoscroll to source
 
 PLUGINS
 
@@ -9,15 +9,13 @@ PLUGINS
 CodeGlance
 Get Gist
 Material Theme UI
-Angular2 typescript Live Tamplates
-bootstrap3
 bootstrap4 & fontawesome
 
 LIVE TAMPLATES
-Angular 2
-Angular2 typescript Live Tamplates
 bootstrap3
 bootstrap3Jade
+React Snippets
+
 
 
 
